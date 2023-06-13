@@ -1,0 +1,18 @@
+.main-cal{display: block;;
+}
+
+.bt-name{
+    display: flexbox;
+    flex-direction: row;
+    width: 280px;
+    height:60px;
+ justify-content: space-around;
+}
+.op-name{
+    display: flexbox;
+    margin: 100px;
+    flex-direction: row;
+    width: 260px;
+    height: 80px;
+ justify-content: space-around;
+}
